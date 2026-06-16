@@ -1,0 +1,6 @@
+ticket,category,priority
+"Unable to login to account",Technical,High
+"Refund not received",Billing,High
+"Need password reset",Technical,Medium
+"Order delayed",Shipping,Medium
+"Want to cancel subscription",Billing,Low
