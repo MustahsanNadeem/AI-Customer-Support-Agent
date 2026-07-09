@@ -1,0 +1,29 @@
+PASSWORD RESET
+
+To reset your password:
+
+1. Go to login page
+2. Click Forgot Password
+3. Enter your registered email
+4. Open email inbox
+5. Click reset link
+6. Create new password
+
+REFUND POLICY
+
+Customers can request refunds within 30 days.
+
+Refund processing time:
+5 to 7 business days.
+
+SHIPPING
+
+Standard shipping:
+3 to 5 business days.
+
+Express shipping:
+1 to 2 business days.
+
+ACCOUNT DELETION
+
+Users can delete accounts from profile settings.
