@@ -1,9 +1,9 @@
 from langchain_community.vectorstores import FAISS
 
-from text_splitter import split_documents
-from embeddings import get_embeddings
+from src.text_splitter import split_documents
+from src.embeddings import get_embeddings
 
-from config import VECTOR_DB_DIR
+from src.config import VECTOR_DB_DIR
 
 
 def create_vector_store():

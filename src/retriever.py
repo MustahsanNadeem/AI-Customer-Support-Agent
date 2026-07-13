@@ -1,7 +1,7 @@
 from langchain_community.vectorstores import FAISS
 
-from embeddings import get_embeddings
-from config import VECTOR_DB_DIR
+from src.embeddings import get_embeddings
+from src.config import VECTOR_DB_DIR
 
 
 def load_vector_store():

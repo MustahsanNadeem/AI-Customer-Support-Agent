@@ -1,6 +1,5 @@
 from langchain_huggingface import HuggingFaceEmbeddings
-from config import EMBEDDING_MODEL
-
+from src.config import EMBEDDING_MODEL
 
 def get_embeddings():
     embeddings = HuggingFaceEmbeddings(

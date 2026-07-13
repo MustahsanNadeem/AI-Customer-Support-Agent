@@ -1,5 +1,5 @@
-from document_loader import load_documents
-from config import CHUNK_SIZE, CHUNK_OVERLAP
+from src.document_loader import load_documents
+from src.config import CHUNK_SIZE, CHUNK_OVERLAP
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
